@@ -2,6 +2,7 @@ import 'package:firebase_auth/firebase_auth.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 import '../models/user_model.dart';
 
+// AuthService handles all Firebase Authentication operations
 // Using print statements here for debugging during development.
 
 
