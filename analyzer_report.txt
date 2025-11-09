@@ -1,0 +1,21 @@
+Analyzing bookswap...                                           
+
+   info • Parameter 'key' could be a super parameter • lib/screens/add_book_screen.dart:12:9 • use_super_parameters
+   info • Parameter 'key' could be a super parameter • lib/screens/auth/login_screen.dart:9:9 • use_super_parameters
+   info • Parameter 'key' could be a super parameter • lib/screens/auth/signup_screen.dart:8:9 • use_super_parameters
+   info • Parameter 'key' could be a super parameter • lib/screens/book_detail_screen.dart:8:9 • use_super_parameters
+   info • Parameter 'key' could be a super parameter • lib/screens/browse_screen.dart:11:9 • use_super_parameters
+   info • Parameter 'key' could be a super parameter • lib/screens/chat_detail_screen.dart:11:9 • use_super_parameters
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/chat_detail_screen.dart:112:38 • deprecated_member_use
+   info • Parameter 'key' could be a super parameter • lib/screens/chats_screen.dart:8:9 • use_super_parameters
+   info • Parameter 'key' could be a super parameter • lib/screens/edit_book_screen.dart:11:9 • use_super_parameters
+   info • Parameter 'key' could be a super parameter • lib/screens/home_screen.dart:12:9 • use_super_parameters
+   info • Parameter 'key' could be a super parameter • lib/screens/my_listings_screen.dart:9:9 • use_super_parameters
+   info • Parameter 'key' could be a super parameter • lib/screens/settings_screen.dart:7:9 • use_super_parameters
+   info • 'activeColor' is deprecated and shouldn't be used. Use activeThumbColor instead. This feature was deprecated after v3.31.0-2.0.pre • lib/screens/settings_screen.dart:64:13 • deprecated_member_use
+   info • 'activeColor' is deprecated and shouldn't be used. Use activeThumbColor instead. This feature was deprecated after v3.31.0-2.0.pre • lib/screens/settings_screen.dart:72:13 • deprecated_member_use
+   info • Parameter 'key' could be a super parameter • lib/widgets/book_card.dart:11:9 • use_super_parameters
+   info • Parameter 'key' could be a super parameter • lib/widgets/custom_button.dart:9:9 • use_super_parameters
+   info • Parameter 'key' could be a super parameter • lib/widgets/custom_text_field.dart:11:9 • use_super_parameters
+
+17 issues found. (ran in 6.0s)
